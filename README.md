@@ -1,7 +1,14 @@
-Projeto integrador feito para colocar em prática o conhecimento adiquirido no curso de C#:
+# Projeto Mini Sistema de Reserva
 
-Seja bem vindo ao meu projeto chamado "Sistema de Hospedagem Hotel", feito totalmente para meus estudos e aperfeiçoamento como profissional. 
 
-Colocando em prática conceitos obtidos durante a aula.
+## Projeto integrador feito para colocar em prática o conhecimento adiquirido no curso de C#
 
-Utilizando a linguagem: C#.
+Seja bem vindo ao meu projeto chamado "Mini Sistema Reserva Hotel" feito totalmente para meus estudos e aperfeiçoamento como profissional. 
+
+## Proposta
+Sistema que faz a reserva de um hotel, calculando o número de hospedes, valor da diária, capacidade de cada quarto.
+
+
+## Habilidades usadas: 
+Linguagem c#, 
+Programação Orientada a Objetos
